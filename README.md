@@ -44,10 +44,19 @@ et à l'inverse, essayer une cale d'embase reviendra à modifier 2 distances OB 
 ![Calcul angle](https://user-images.githubusercontent.com/109454001/197621870-e223336d-962e-409d-b341-1bc8a3fb3855.jpg)
 
 
+Et pourquoi le PMH/PMB est si difficile à trouver ?
+Il faut tout simplement regarder la représentation graphique de la course du piston (de la distance OB en fait) :
+c'est une sinusoide et on voit que la courbe s'aplatie justement lorsque OB est max (PMH) et min (PMB)
+
+
+
+
+![course piston](https://user-images.githubusercontent.com/109454001/197628168-3dccc064-100a-46e7-a9b5-89f6da704048.jpg)
 
 
 
 
 
-
+source des images:
+https://fr.wikipedia.org/wiki/Syst%C3%A8me_bielle-manivelle
 
