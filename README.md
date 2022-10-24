@@ -1,4 +1,6 @@
 # La-boite-a-z
+
+Actuellement version 1.0
 Programme permettant de calculer différentes choses pour le moteur du Ciao :
 
 En définissant les valeurs de bases (course du vilebrequin, entraxe de la bielle)
