@@ -25,6 +25,8 @@ La distance OA correspond à la demi-course dela bielle
 la distance AB est l'entraxe de la bielle (pour la mesure : prendre la longueur totale et y retrancher la moitié de chaque diametre de maneton)
 le PMH correspond à l'alignement de OA et AB
 la pige (donc la descente du piston) correspondra alors à OA+AB (distance au PMH) - OB
+Tous les calculs sont faits avec la variation de OB, ce qui par consequence est identique pour le piston, puisqu'il coulisse à la verticale.
+Le piston aura donc la même variation que OB
 
 La cale pour la modification du diagramme change tout simplement la position du point B (qui correspond lui à la position la plus haute vers le PMH de la lumiere
 (d'échappement ou admission ,c'est pareil)
