@@ -1,6 +1,6 @@
 # La-boite-a-z
 
-Actuellement version 1.1
+Actuellement version 1.0
 
 Programme permettant de calculer différentes choses pour le moteur du Ciao :
 
