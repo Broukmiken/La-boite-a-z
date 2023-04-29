@@ -65,3 +65,10 @@ c'est une sinusoide et on voit que la courbe s'aplatie justement lorsque OB est 
 source des images:
 https://fr.wikipedia.org/wiki/Syst%C3%A8me_bielle-manivelle
 
+
+
+Rejoignez moi ici:
+https://www.forum-ciao.com/t18549-la-boite-a-z-outils-mon-programme-pour-nos-ciao
+
+
+
